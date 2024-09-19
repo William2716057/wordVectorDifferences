@@ -40,3 +40,6 @@ Vector for 'king' = [0.1, -0.2, ...]
 Vector for 'queen' = [0.2, -0.1, ...]
 Difference between 'king' and 'queen' = [-0.1, -0.1, ...]
 ```
+### Contributing
+Feel free to open issues or submit pull requests if you want to improve this project.
+
